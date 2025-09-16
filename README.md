@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**noxYJZeng/noxYJZeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Profile Dashboard (two-column layout) -->
+<table>
+  <tr>
+    <!-- Left column: overview + leetcode -->
+    <td width="62%" valign="top">
+      <img src="assets/overview.svg" alt="Overview" />
+      <br/>
+      <img src="assets/leetcode.svg" alt="LeetCode Stats" />
+    </td>
+    <!-- Right column: languages -->
+    <td width="38%" valign="top">
+      <img src="assets/languages.svg" alt="Most Used Languages" />
+      <!-- If you also generate achievements.svg, add it below -->
+      <!-- <br/>
+      <img src="assets/achievements.svg" alt="Achievements" /> -->
+    </td>
+  </tr>
+</table>
