@@ -2,7 +2,7 @@ name: Update GitHub Profile Metrics
 
 on:
   schedule:
-    - cron: "0 */6 * * *"    # update every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches: ["main"]
@@ -27,11 +27,15 @@ jobs:
           base: header, activity, community, metadata
           config_timezone: America/New_York
 
+          # ===== Languages (Top Langs) =====
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
+          plugin_languages_colors: github
 
           # ===== LeetCode =====
           plugin_leetcode: yes
           plugin_leetcode_user: nasirellazeng
           plugin_leetcode_sections: solved
-
 
 
