@@ -24,13 +24,15 @@ jobs:
           user: noxYJZeng
           template: classic
           filename: metrics.svg
-          base: header, activity, community, metadata
+
+          base: header, activity, community
           config_timezone: America/New_York
 
           plugin_languages: no
 
-          # ===== LeetCode =====
+          # LeetCode
           plugin_leetcode: yes
           plugin_leetcode_user: nasirellazeng
           plugin_leetcode_sections: solved
+
 
