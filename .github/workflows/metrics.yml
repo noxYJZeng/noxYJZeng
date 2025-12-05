@@ -30,7 +30,7 @@ jobs:
 
           plugin_languages: no
 
-          # LeetCode
+          # LeetCode stats
           plugin_leetcode: yes
           plugin_leetcode_user: nasirellazeng
           plugin_leetcode_sections: solved
