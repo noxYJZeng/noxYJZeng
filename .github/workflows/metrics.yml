@@ -28,7 +28,7 @@ jobs:
           base: header, activity, community
           config_timezone: America/New_York
 
-          plugin_languages: no
+          plugin_languages: yes
 
           # LeetCode stats
           plugin_leetcode: yes
