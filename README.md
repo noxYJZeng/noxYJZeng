@@ -6,7 +6,7 @@
 
 I'm Nox, a Computer Science master's student at Georgia Tech, focusing on machine learning. I work on LLM agents, reinforcement learning, and tools for AI research. Away from the screen, I enjoy film photography, painting, and exploring historic sites.
 
-[Personal website](https://noxyjzeng.github.io/myWeb/) · [Projects](https://noxyjzeng.github.io/myWeb/#projects) · [LeetCode](https://leetcode.com/u/nasirellazeng/)
+[Personal website](https://noxyjzeng.github.io/myWeb/) · [Projects](https://noxyjzeng.github.io/myWeb/#projects)
 
 <p align="center">
   <img src="./metrics.svg" width="480" alt="GitHub activity and LeetCode solved problem counts" />
