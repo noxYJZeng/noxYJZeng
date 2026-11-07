@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300" role="img" aria-labelledby="title desc">
+<title id="title">Hi, I'm Nox.</title>
+<desc id="desc">A dark green terminal garden with pixel butterflies. Computer Science at Georgia Tech, M.S. in Machine Learning.</desc>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#234534" stroke-opacity=".28"/></pattern></defs>
+<style>
+text{font-family:Consolas,'Liberation Mono',monospace}
+.flight{animation:drift 8s ease-in-out infinite}.second{animation-delay:-3s;animation-duration:11s}.third{animation-delay:-5s;animation-duration:9s}
+.wing{transform-box:fill-box;transform-origin:center;animation:flutter 1.1s steps(3,end) infinite alternate}
+.cursor{animation:blink 1.2s steps(1,end) infinite}
+@keyframes drift{0%,100%{transform:translate(0,0)}25%{transform:translate(12px,-12px)}60%{transform:translate(-10px,-5px)}}
+@keyframes flutter{from{transform:scaleX(1)}to{transform:scaleX(.55)}}
+@keyframes blink{50%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.flight,.wing,.cursor{animation:none}}
+</style>
+<rect x=".5" y=".5" width="839" height="299" rx="12" fill="#050b08" stroke="#234534"/>
+<rect x="1" y="39" width="838" height="222" fill="url(#grid)"/>
+<path d="M1 39H839M1 261H839" stroke="#234534"/>
+<g fill="#30b979"><circle cx="22" cy="20" r="3"/><circle cx="36" cy="20" r="3" opacity=".6"/><circle cx="50" cy="20" r="3" opacity=".3"/></g>
+<text x="68" y="24" font-size="11" fill="#98afa0">nox.sys / ~/pixel-habitat</text>
+<circle cx="722" cy="20" r="3" fill="#68ffac"/><text x="734" y="24" font-size="10" fill="#98afa0">RUNNING</text>
+<text x="36" y="87" font-size="11" letter-spacing="2" fill="#68ffac">&gt; NOX_ZENG / HELLO WORLD</text>
+<text x="33" y="147" font-size="44" font-weight="700" fill="#dce9df">Hi, I'm Nox.<tspan class="cursor" fill="#68ffac">_</tspan></text>
+<text x="36" y="190" font-size="15" fill="#dce9df">Computer Science @ Georgia Tech</text>
+<text x="36" y="216" font-size="12" fill="#98afa0">M.S. · Machine Learning</text>
+<text x="24" y="285" font-size="10" letter-spacing="1.2" fill="#98afa0">CODE / ART / CURIOSITY</text>
+<text x="630" y="285" font-size="10" fill="#68ffac">LEPIDOPTERA / PIXEL LIFE</text>
+<g stroke="#234534" stroke-width="3" fill="none"><path d="M535 260v-35h-12v-13m12 28h14v-17M779 260v-55h-13v-13m13 42h16v-16M697 260v-19h-10v-11"/></g>
+
+<g transform="translate(580 95)"><g class="flight "><g class="wing" fill="#68ffac" shape-rendering="crispEdges">
+<rect x="0" y="0" width="4" height="4"/>
+<rect x="4" y="0" width="4" height="4"/>
+<rect x="28" y="0" width="4" height="4"/>
+<rect x="32" y="0" width="4" height="4"/>
+<rect x="0" y="4" width="4" height="4"/>
+<rect x="4" y="4" width="4" height="4"/>
+<rect x="8" y="4" width="4" height="4"/>
+<rect x="24" y="4" width="4" height="4"/>
+<rect x="28" y="4" width="4" height="4"/>
+<rect x="32" y="4" width="4" height="4"/>
+<rect x="0" y="8" width="4" height="4"/>
+<rect x="4" y="8" width="4" height="4"/>
+<rect x="8" y="8" width="4" height="4"/>
+<rect x="12" y="8" width="4" height="4"/>
+<rect x="20" y="8" width="4" height="4"/>
+<rect x="24" y="8" width="4" height="4"/>
+<rect x="28" y="8" width="4" height="4"/>
+<rect x="32" y="8" width="4" height="4"/>
+<rect x="4" y="12" width="4" height="4"/>
+<rect x="8" y="12" width="4" height="4"/>
+<rect x="12" y="12" width="4" height="4"/>
+<rect x="16" y="12" width="4" height="4"/>
+<rect x="20" y="12" width="4" height="4"/>
+<rect x="24" y="12" width="4" height="4"/>
+<rect x="28" y="12" width="4" height="4"/>
+<rect x="8" y="16" width="4" height="4"/>
+<rect x="12" y="16" width="4" height="4"/>
+<rect x="16" y="16" width="4" height="4"/>
+<rect x="20" y="16" width="4" height="4"/>
+<rect x="24" y="16" width="4" height="4"/>
+<rect x="4" y="20" width="4" height="4"/>
+<rect x="8" y="20" width="4" height="4"/>
+<rect x="12" y="20" width="4" height="4"/>
+<rect x="16" y="20" width="4" height="4"/>
+<rect x="20" y="20" width="4" height="4"/>
+<rect x="24" y="20" width="4" height="4"/>
+<rect x="28" y="20" width="4" height="4"/>
+<rect x="4" y="24" width="4" height="4"/>
+<rect x="8" y="24" width="4" height="4"/>
+<rect x="12" y="24" width="4" height="4"/>
+<rect x="20" y="24" width="4" height="4"/>
+<rect x="24" y="24" width="4" height="4"/>
+<rect x="28" y="24" width="4" height="4"/>
+<rect x="8" y="28" width="4" height="4"/>
+<rect x="12" y="28" width="4" height="4"/>
+<rect x="20" y="28" width="4" height="4"/>
+<rect x="24" y="28" width="4" height="4"/>
+<rect x="12" y="32" width="4" height="4"/>
+<rect x="20" y="32" width="4" height="4"/>
+</g></g></g>
+<g transform="translate(724 151)"><g class="flight second"><g class="wing" fill="#cda570" shape-rendering="crispEdges">
+<rect x="0" y="0" width="3" height="3"/>
+<rect x="3" y="0" width="3" height="3"/>
+<rect x="21" y="0" width="3" height="3"/>
+<rect x="24" y="0" width="3" height="3"/>
+<rect x="0" y="3" width="3" height="3"/>
+<rect x="3" y="3" width="3" height="3"/>
+<rect x="6" y="3" width="3" height="3"/>
+<rect x="18" y="3" width="3" height="3"/>
+<rect x="21" y="3" width="3" height="3"/>
+<rect x="24" y="3" width="3" height="3"/>
+<rect x="0" y="6" width="3" height="3"/>
+<rect x="3" y="6" width="3" height="3"/>
+<rect x="6" y="6" width="3" height="3"/>
+<rect x="9" y="6" width="3" height="3"/>
+<rect x="15" y="6" width="3" height="3"/>
+<rect x="18" y="6" width="3" height="3"/>
+<rect x="21" y="6" width="3" height="3"/>
+<rect x="24" y="6" width="3" height="3"/>
+<rect x="3" y="9" width="3" height="3"/>
+<rect x="6" y="9" width="3" height="3"/>
+<rect x="9" y="9" width="3" height="3"/>
+<rect x="12" y="9" width="3" height="3"/>
+<rect x="15" y="9" width="3" height="3"/>
+<rect x="18" y="9" width="3" height="3"/>
+<rect x="21" y="9" width="3" height="3"/>
+<rect x="6" y="12" width="3" height="3"/>
+<rect x="9" y="12" width="3" height="3"/>
+<rect x="12" y="12" width="3" height="3"/>
+<rect x="15" y="12" width="3" height="3"/>
+<rect x="18" y="12" width="3" height="3"/>
+<rect x="3" y="15" width="3" height="3"/>
+<rect x="6" y="15" width="3" height="3"/>
+<rect x="9" y="15" width="3" height="3"/>
+<rect x="12" y="15" width="3" height="3"/>
+<rect x="15" y="15" width="3" height="3"/>
+<rect x="18" y="15" width="3" height="3"/>
+<rect x="21" y="15" width="3" height="3"/>
+<rect x="3" y="18" width="3" height="3"/>
+<rect x="6" y="18" width="3" height="3"/>
+<rect x="9" y="18" width="3" height="3"/>
+<rect x="15" y="18" width="3" height="3"/>
+<rect x="18" y="18" width="3" height="3"/>
+<rect x="21" y="18" width="3" height="3"/>
+<rect x="6" y="21" width="3" height="3"/>
+<rect x="9" y="21" width="3" height="3"/>
+<rect x="15" y="21" width="3" height="3"/>
+<rect x="18" y="21" width="3" height="3"/>
+<rect x="9" y="24" width="3" height="3"/>
+<rect x="15" y="24" width="3" height="3"/>
+</g></g></g>
+<g transform="translate(688 64)"><g class="flight third"><g class="wing" fill="#98afa0" shape-rendering="crispEdges">
+<rect x="0" y="0" width="2" height="2"/>
+<rect x="2" y="0" width="2" height="2"/>
+<rect x="14" y="0" width="2" height="2"/>
+<rect x="16" y="0" width="2" height="2"/>
+<rect x="0" y="2" width="2" height="2"/>
+<rect x="2" y="2" width="2" height="2"/>
+<rect x="4" y="2" width="2" height="2"/>
+<rect x="12" y="2" width="2" height="2"/>
+<rect x="14" y="2" width="2" height="2"/>
+<rect x="16" y="2" width="2" height="2"/>
+<rect x="0" y="4" width="2" height="2"/>
+<rect x="2" y="4" width="2" height="2"/>
+<rect x="4" y="4" width="2" height="2"/>
+<rect x="6" y="4" width="2" height="2"/>
+<rect x="10" y="4" width="2" height="2"/>
+<rect x="12" y="4" width="2" height="2"/>
+<rect x="14" y="4" width="2" height="2"/>
+<rect x="16" y="4" width="2" height="2"/>
+<rect x="2" y="6" width="2" height="2"/>
+<rect x="4" y="6" width="2" height="2"/>
+<rect x="6" y="6" width="2" height="2"/>
+<rect x="8" y="6" width="2" height="2"/>
+<rect x="10" y="6" width="2" height="2"/>
+<rect x="12" y="6" width="2" height="2"/>
+<rect x="14" y="6" width="2" height="2"/>
+<rect x="4" y="8" width="2" height="2"/>
+<rect x="6" y="8" width="2" height="2"/>
+<rect x="8" y="8" width="2" height="2"/>
+<rect x="10" y="8" width="2" height="2"/>
+<rect x="12" y="8" width="2" height="2"/>
+<rect x="2" y="10" width="2" height="2"/>
+<rect x="4" y="10" width="2" height="2"/>
+<rect x="6" y="10" width="2" height="2"/>
+<rect x="8" y="10" width="2" height="2"/>
+<rect x="10" y="10" width="2" height="2"/>
+<rect x="12" y="10" width="2" height="2"/>
+<rect x="14" y="10" width="2" height="2"/>
+<rect x="2" y="12" width="2" height="2"/>
+<rect x="4" y="12" width="2" height="2"/>
+<rect x="6" y="12" width="2" height="2"/>
+<rect x="10" y="12" width="2" height="2"/>
+<rect x="12" y="12" width="2" height="2"/>
+<rect x="14" y="12" width="2" height="2"/>
+<rect x="4" y="14" width="2" height="2"/>
+<rect x="6" y="14" width="2" height="2"/>
+<rect x="10" y="14" width="2" height="2"/>
+<rect x="12" y="14" width="2" height="2"/>
+<rect x="6" y="16" width="2" height="2"/>
+<rect x="10" y="16" width="2" height="2"/>
+</g></g></g>
+</svg>
